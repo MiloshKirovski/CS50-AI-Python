@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Knowledge/knights" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Knowledge/minesweeper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learning/nim" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learning/shopping" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NeuralNetworks/traffic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Optimization/crossword" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Search/degrees" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Search/tictactoe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Uncertainty/heredity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Uncertainty/pagerank" vcs="Git" />
+  </component>
+</project>
